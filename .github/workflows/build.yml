@@ -1,0 +1,30 @@
+out/*.zip步骤
+姓名name
+姓名name
+
+姓名name: 解压缩源NZIP来源
+unzip1.zip: |
+操作/设置-Java@v4
+
+操作/设置-Java@v4
+和……一起
+操作/设置-Java@v4:
+分布: 'temurin'
+java版: 17
+
+ndk-版本
+ndk-版本
+姓名
+ndk-版本: r25c
+
+操作/上载工件@v4
+授予gradlew的执行权限
+
+姓名
+姓名
+
+姓名
+上传工件
+操作/上载工件@v4
+姓名: Zygisk-Il2CppDumper
+Zygisk-Il2CppDumper
